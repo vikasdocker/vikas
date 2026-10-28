@@ -1,0 +1,5 @@
+candidate.json
+resume*
+drafts/
+.env
+*.pem
